@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **EXCEL, SQL, Data Analyst using Excel and PowerBi**
 
-- 👨‍💻 All of my projects are available at [dixitpradhan.netlify.app](dixitpradhan.netlify.app)
+- 👨‍💻 All of my projects are available at [dixitpradhan.netlify.app](https://dixitpradhan.netlify.app/)
 
 - 💬 Ask me about **react,sql database,frontend devlopement**
 
