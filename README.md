@@ -5,11 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Freelance Works**
+- 🌱 I’m currently learning **EXCEL, SQL, Data Analyst using Excel and PowerBi**
 
-- 🌱 I’m currently learning **Typescript,React Native,Machine Learning**
-
-- 👨‍💻 All of my projects are available at [dixit-portfoilio.42web.io](dixit-portfoilio.42web.io)
+- 👨‍💻 All of my projects are available at [dixitpradhan.netlify.app](dixitpradhan.netlify.app)
 
 - 💬 Ask me about **react,sql database,frontend devlopement**
 
