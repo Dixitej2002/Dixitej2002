@@ -1,6 +1,6 @@
 <!-- Modern GitHub Profile README for Data Analyst -->
 <h1 align="center">👋 Hi, I'm Dixit Pradhan</h1>
-<h3 align="center">📊 Data Analyst | Excel | SQL | Power BI | Python | Frontend Developer</h3>
+<h3 align="center">Java Developer | PHP | Excel | SQL </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dixitej2002&label=Profile%20Views&color=0E75B6&style=flat-square" alt="profile views" />
