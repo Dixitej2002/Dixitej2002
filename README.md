@@ -37,12 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dixitej2002&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixitej2002&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
 ### 📅 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dixitej2002&theme=tokyo-night" />
